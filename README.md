@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQyNnBhcnYydzEyczBrcDNvMWI5bzdoN3hzNDJhdDN5cjB6Y2Y5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vol2eF03oJf6HTs1JF/giphy.gif" alt="Faraz" />
+  <img src= "https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif?cid=ecf05e479faarxbkueganjkkcep9209fk74tr4aycheg3zjm&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Faraz1" />
 </h1>
 
 ```
